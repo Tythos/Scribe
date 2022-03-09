@@ -3,6 +3,8 @@ Scribe
 
 Scribe is a basic set of tools that facilitates the transcription of raw RST source into professionally-typset PDF documents.
 
+.. image:: before_after.png
+
 While this pipeline focuses on the bare-bones transcription supported by docutils (compared to, for example, the fully fleshed-out feature set offered by Sphinx), this is still quite extensive and can give you a powerful array of tools. The "main.rst" file included in this repository endeavours to demonstrate a wide variety of supported features that are successfuly transcribed through TeX to PDF. A full list of docutils-supported RST features can be found here:
 
   https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html

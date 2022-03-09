@@ -1,7 +1,7 @@
 Scribe
 ======
 
-Scribe is a basic set of tools that facilitates the transcription of raw RST source into professionally-typset PDF documents.
+Scribe is a basic set of tools that facilitates the transcription of raw RST source into professionally-typeset PDF documents.
 
 .. image:: before_after.png
 
